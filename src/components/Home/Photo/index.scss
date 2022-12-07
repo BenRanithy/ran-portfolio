@@ -1,0 +1,20 @@
+.photo-container {
+    z-index: 0;
+    width: 400px;
+    height: 600px;
+    position: absolute;
+    top: 0;
+    right: 15%;
+    bottom: 0;
+    left: auto;
+    margin: auto;
+    opacity: 100;
+
+    img {
+        display: block;
+        margin: 0px auto;
+        margin-top: 100px;
+        width: 300px;
+        height: auto;
+    }
+}
