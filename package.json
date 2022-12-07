@@ -1,7 +1,7 @@
 {
   "name": "react-portfolio",
   "version": "0.1.0",
-  "homepage": "https://benranithy.github.io/react-portfolio",
+  "homepage": "https://benranithy.github.io/ran-portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.9.1",
